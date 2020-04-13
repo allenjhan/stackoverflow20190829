@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/allen/rep/stackoverflow20190829/target/scala-2.13/stackoverflow20190829_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UseLinkedHashMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190829/target/scala-2.13/classes/UseLinkedHashMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pascal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190829/target/scala-2.13/classes/Pascal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UseLinkedHashMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190829/target/scala-2.13/classes/UseLinkedHashMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UseLinkedHashMap$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190829/target/scala-2.13/classes/UseLinkedHashMap$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pascal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190829/target/scala-2.13/classes/Pascal$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
